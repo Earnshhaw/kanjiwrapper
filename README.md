@@ -52,4 +52,4 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-kanjiwrapper = "0.3"
+kanjiwrapper = "0.4"
