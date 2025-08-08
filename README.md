@@ -1,0 +1,2 @@
+# kanjiwrapper
+kanjiapi.dev wrapper
