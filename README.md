@@ -1,6 +1,6 @@
 # kanjiwrapper
 
-`kanjiwrapper` is a Rust client library for accessing the [KanjiAPI](https://kanjiapi.dev/), a REST API providing detailed data about Japanese kanji characters and words.
+[kanjiwrapper](https://crates.io/crates/kanjiwrapper) is a Rust client library for accessing the [KanjiAPI](https://kanjiapi.dev/), a REST API providing detailed data about Japanese kanji characters and words.
 
 ## Features
 
