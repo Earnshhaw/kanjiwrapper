@@ -1,0 +1,15 @@
+[package]
+name = "kanjiwrapper"
+version = "0.3.0"
+edition = "2024"
+rust-version = "1.85.0"
+description = "Wrapper for kanjiapi.dev"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+anyhow = "1.0.72"
+reqwest = { version = "0.12.11" }
+serde = { version = "1.0.188", features = ["derive"] }
+serde_json = "1.0.142"
+tokio = { version = "1.33.0", features = ["full"] }
